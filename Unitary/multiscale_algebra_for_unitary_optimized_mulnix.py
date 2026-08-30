@@ -98,6 +98,21 @@ step   5 | current_E=39479.959173 | best_E=39479.959173 | rel_improve=1.670e-02 
 [n=2048] Is unitary: True
 [n=2048] Det magnitude: 1.000000
 [n=2048] Frobenius distance: 64.002285
+
+======================================
+Running structured speed-optimized collapse for n = 4096
+======================================
+[n=4096] Initial block energy: 80173.304992
+step   0 | current_E=78720.748670 | best_E=78720.748670 | rel_improve=1.812e-02 | step_size=8.800e-02
+step   5 | current_E=78443.923513 | best_E=78443.923513 | rel_improve=9.864e-06 | step_size=9.019e-02
+[n=4096] Early stopping at step 6 (rel_improve=0.000e+00)
+
+[n=4096] Final best energy: 78443.923513
+[n=4096] Total time: 15998.157 s (steps_run=7)
+[n=4096] Acceptance ratio: 0.714
+[n=4096] Is unitary: True
+[n=4096] Det magnitude: 1.000000
+[n=4096] Frobenius distance: 90.519847
 """
 
 
