@@ -1,0 +1,31 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 David Mulnix
+
+This repository contains empirical source code, validation tools, and reference implementations proving mathematical/scientific concepts. 
+
+===============================================================================
+TERMS OF USE AND PERMISSIONS
+===============================================================================
+
+Under the CC BY-NC 4.0 framework, you are free to download, run, inspect, and 
+modify this code for personal, academic, and non-commercial research validation.
+
+Mandatory Conditions:
+1. ATTRIBUTION (BY): You must give appropriate credit to the original author. 
+   If you publish academic papers, blog posts, benchmarks, or public analysis 
+   utilizing or testing this code, you are legally required to cite this 
+   repository and its author as the source.
+2. NON-COMMERCIAL (NC): You may not use this material or exact source code for 
+   commercial purposes, monetary compensation, or corporate product integration.
+
+===============================================================================
+NOTICE FOR COMMERCIAL ENTITIES & ENTERPRISES
+===============================================================================
+The source code provided in this repository is strictly for empirical sampling 
+and peer verification. Using, adapting, or dropping this exact code baseline 
+into a commercial product, production pipeline, or closed-source system is 
+strictly prohibited without explicit, written contractual permission from the 
+copyright holder. Commercial entities wishing to deploy these algorithms must 
+develop independent implementations from the underlying concepts or negotiate 
+a separate commercial license.
