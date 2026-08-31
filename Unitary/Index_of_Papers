@@ -1,4 +1,4 @@
-# Core Papers (Chronological Index)
+# Core Papers
 # ---------------------------------
 
 1. D. Mulnix. Hadamard’s Determinant Problem: Structural, Constructive,
@@ -29,3 +29,7 @@
 8. D. Mulnix. Self-Contained Geometric Operators as Quantum Compilers.
    Zenodo, 2026.
    DOI: https://doi.org/10.5281/zenodo.22119480
+
+9. Mulnix, D. (2026). Invariant-Theoretic Analysis of AI-Generated
+   {±1} Matrices from PatternBoost. Zenodo. 2026 
+   https://doi.org/10.5281/zenodo.21420776
