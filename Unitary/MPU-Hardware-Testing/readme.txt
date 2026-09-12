@@ -1,4 +1,4 @@
-
+You will need to copy the modules from the required modules folder over to each test case you run.
 
 This repository contains the software, data, and analysis scripts associated with the paper “Matrix‑Product Unitaries on Quantum Hardware.” All of the experiments described in the paper are represented here in runnable form, including the extraction tests, projection and reconstruction procedures, baseline comparisons, multilayer MPU evaluations, and the full stress‑test pipeline.
 
