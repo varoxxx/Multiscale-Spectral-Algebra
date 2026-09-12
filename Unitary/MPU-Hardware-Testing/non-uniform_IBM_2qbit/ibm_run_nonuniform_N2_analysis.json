@@ -1,0 +1,19 @@
+{
+  "entropy": 1.9987638938471748,
+  "kl_divergence": 0.0012361061528254492,
+  "hellinger_distance": 0.014658906870706923,
+  "total_mutual_information": 0.0001808926473906569,
+  "mutual_information_matrix": [
+    [
+      0.0,
+      9.044632369532846e-05
+    ],
+    [
+      9.044632369532846e-05,
+      0.0
+    ]
+  ],
+  "n_qubits": 2,
+  "total_shots": 2048,
+  "unique_bitstrings": 4
+}
