@@ -1,0 +1,27 @@
+{
+  "entropy_hw": 1.9991627087822563,
+  "kl_hw_uniform": 0.0008372912177437488,
+  "hellinger_hw_uniform": 0.01202424606766533,
+  "hellinger_hw_sim": null,
+  "total_mutual_information": 0.001066421843718881,
+  "mutual_information_matrix": [
+    [
+      0.0,
+      0.0005332109218594405
+    ],
+    [
+      0.0005332109218594405,
+      0.0
+    ]
+  ],
+  "n_qubits": 2,
+  "total_shots": 2048,
+  "unique_bitstrings": 4,
+  "t1_min": 1.7761523666953254e-05,
+  "t1_max": 0.00033135065998300103,
+  "t2_min": 5.443193604600519e-06,
+  "t2_max": 0.00026186622553777127,
+  "readout_min": 0.0030517578125,
+  "readout_max": 0.316162109375,
+  "worst_readout_qubit": 72
+}
