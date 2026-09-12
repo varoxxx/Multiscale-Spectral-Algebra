@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep  9 13:28:49 2026
-
-@author: Varoc
+David Mulnix copyright 2026
 """
 
 import json
